@@ -3,7 +3,7 @@
 <template>
   <div>
     <BaseNavigation />
-    <h1>Default Layout</h1>
+    <h1></h1>
     <slot />
   </div>
 </template>

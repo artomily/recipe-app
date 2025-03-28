@@ -49,4 +49,6 @@ export default defineNuxtConfig({
       Montserrat: true,
     },
   },
+
+
 });
